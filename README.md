@@ -12,8 +12,7 @@
 
 그리고 당신의 힘으로 새로운것을 만들어 보세요...
 
-[HOLA문 두드리기](https://github.com/HOLAAI/info/wiki)
+[HOLA문 두드리기](http://holaai.io)
 
 **HOLA는 한국인공지능협회와 함꼐 합니다..**
 
-![케빈머피](https://github.com/HOLAAI/info/blob/master/image1.png)
